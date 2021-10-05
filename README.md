@@ -2,7 +2,7 @@
 Teste para candidatos a vaga de desenvolvedor mobile / android
 
 O teste consiste em listar o cardápio começando pelas categorias, produtos e etapas de combo 
-assim mostradas no prototipação:
+assim mostradas na prototipação:
 https://www.figma.com/file/z5kOdC101slgdCLVp37PZW/Teste-para-Mobile-Android
 
 Consulta cardápio:
